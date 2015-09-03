@@ -17,4 +17,4 @@ O encontro são sempre sem fins lucrativos e gratuitos para os participantes. N�
 
 ## E agora?
 
-Tendo uma visão geral do projeto, vamos ver o [Passo a Passo](step_by_step/README.md) para organizar o evento.
+Tendo uma visão geral do projeto, vamos ver o [Passo a Passo](../step_by_step/README.md) para organizar o evento.
