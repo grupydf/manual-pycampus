@@ -6,3 +6,4 @@
 * [Website](website/README.md)
 * [Divulgação](promotion/README.md)
 * [Logística](logistics/README.md)
+* [Treinadores/Palestrantes](coaches/README.md)
