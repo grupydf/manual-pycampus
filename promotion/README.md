@@ -30,4 +30,4 @@ Vá até a nossa [página de recursos](,,/resources/README.html) para encontrar 
 
 ### Recomendações
 
-No seu questionário de inscrição você pode perguntar às mulheres os e-mails de outras mulheres que elas recomendariam participar do workshop. Envie convites pessoais e encoraje-as a se inscreverem.
+No seu questionário de inscrição você pode perguntar aos participantes os e-mails de outras pessoas que recomendariam participar do evento. Envie convites pessoais e encoraje-os a se inscreverem.
