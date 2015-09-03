@@ -26,7 +26,7 @@ Vá até os encontros locais de outras comunidades, como hacker clubs, por exemp
 
 Imprima alguns posters e flyers e os distribua nas empresas de TI, ou em lugares que tenha pessoas interessadas em aprender python e programação. Diversidade é tudo!
 
-Vá até a nossa [página de recursos](resources/README.html) para encontrar posters e flyers que já criamos. Não fique com medo de contribuir com os seus também!
+Vá até a nossa [página de recursos](,,/resources/README.html) para encontrar posters e flyers que já criamos. Não fique com medo de contribuir com os seus também!
 
 ### Recomendações
 
