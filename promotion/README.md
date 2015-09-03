@@ -20,11 +20,11 @@ Como o foco do evento é os alunos de universidades, divulgar o evento nas insti
 
 ### Encontros locais
 
-Vá até os encontros locais das Girls in Tech, Geek Girl Dinner, Geek Girl Carrots, DevChix, PyLadies e convide-as para o Django Girls! Confira aqui: [meetup.com](http://meetup.com/) para encontrar as comunidades e os encontros locais.
+Vá até os encontros locais de outras comunidades, como hacker clubs, por exemplo.
 
 ### Flyers - fora da caixa
 
-Imprima alguns posters e flyers e os distribua nas academias (os armários das mulheres nas academias são incríveis!), lojas de música, cafés ou restaurantes da sua cidade. Pense sobre os locais em que as mulheres se reúnem e use estes lugares para alcançar mulheres de diversas áreas. Diversidade é tudo!
+Imprima alguns posters e flyers e os distribua nas empresas de TI, ou em lugares que tenha pessoas interessadas em aprender python e programação. Diversidade é tudo!
 
 Vá até a nossa [página de recursos](resources/README.html) para encontrar posters e flyers que já criamos. Não fique com medo de contribuir com os seus também!
 
