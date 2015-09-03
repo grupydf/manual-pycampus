@@ -7,3 +7,4 @@
 * [Divulgação](promotion/README.md)
 * [Logística](logistics/README.md)
 * [Treinadores/Palestrantes](coaches/README.md)
+* [Manual dos Treinadores/Palestrantes](speaker_manual/README.md)
