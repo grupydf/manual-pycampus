@@ -64,7 +64,7 @@ X X
 Infelizmente, você também tem que cuidar de tranferir dinheiro do patrocinador para o fornecedor. Você pode fazer isso de três maneiras:
 
 - Se você tem sua própria empresa, você pode apenas faturá-los e pagar os custos. Essa é provavelmente a melhor maneira.
-- Se você não tem sua própria empresa, pergunte para a comunidade local de Python ou para seus amigos se eles podem ajudar com isso. Se tiver uma associação de Pytho no seu país você pode pedir ajuda para eles também. Se você manipular a transferência do dinheiro através de um amigo fique em mente que você deverá pagar as taxas no dinheiro recebido. O valor varia de país para país.
+- Se você não tem sua própria empresa, pergunte para a comunidade local de Python ou para seus amigos se eles podem ajudar com isso. Se tiver uma associação de Python no seu país você pode pedir ajuda para eles também. Se você manipular a transferência do dinheiro através de um amigo fique em mente que você deverá pagar as taxas no dinheiro recebido. O valor varia de país para país.
 - Se isso não funcionar também você pode pedir para patrocinadores pagarem a comida e as impressões diretamente.
 
 Certifique-se de dizer para seus patrocinadores quando você precisa do dinheiro. Transferência de dinheiro pode demorar alguns dias e você precisa pagar coisas como impressão de camisas e bolsas com antecedência. Tenha certeza de ter todo o dinheiro na sua conta do banco pelo menos 1 a 2 semanas antes do workshop para não entrar em confusão e ter que organizar algumas coisas no último minuto.
