@@ -1,4 +1,4 @@
-# Introdução
+# Básico
 
 ## O que é um evento PyCampus?
 
