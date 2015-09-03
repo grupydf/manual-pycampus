@@ -25,7 +25,7 @@ Vamos ver como fica isso na linha do tempo:
 
 ### 1 mês antes
 
-- [Anuncie seus palestrantes no site](../speakers/README.md)
+- Anuncie seus palestrantes no site
 - Escolha os participantes e informe-os
 - Organize um jantar / encontro com seus treinadores e certifique-se de que eles leram o [Manual do Palestrante](../speaker_manual/README.md) e estão familiarizados com um dos [Tutoriais](../tutorials/README.md) disponíveis, para ministrar.
 - Certifique-se de que seus participantes confirmaram presença
