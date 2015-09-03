@@ -14,7 +14,7 @@ Lembre-se que todos precisam de energia :) Muitas vezes o local pode oferecer-lh
 
 ### Internet
 
-Internet é crucial, então pergunte ao fornecedor do local se eles testaram a WiFi antes. Esteja preparado para alguns problemas, então tenha todo o material (tutorial, slides,bootstrap, css) baixado e salvo em alguns de pen drives.
+Internet é crucial, então pergunte ao fornecedor do local se eles testaram a WiFi antes. Esteja preparado para alguns problemas, então tenha todo o material (tutorial, slides, bootstrap, css) baixado e salvo em alguns de pen drives.
 
 ### Decorações
 
